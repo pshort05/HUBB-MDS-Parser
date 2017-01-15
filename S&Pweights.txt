@@ -1,0 +1,502 @@
+COMPANY	RIC	INDEX WEIGHT	PROPERTY TYPE	CAP RANGE	SIZE	LEGACY KEY
+3M Co	MMM.N	0.005589453				
+ACE Limited	ACE.N	0.001897146				
+AES Corp	AES.N	0.000737296				
+AFLAC Inc	AFL.N	0.002454344				
+AK Steel Hldg Corp	AKS.N	0.000133882				
+AT&T Inc	T.N	0.015805741				
+Abbott Laboratories	ABT.N	0.007261141				
+Abercrombie & Fitch Company A	ANF.N	0.000349705				
+Adobe Systems Inc	ADBE.OQ	0.001408784				
+Advanced Micro Devices	AMD.N	0.000394894				
+Aetna Inc	AET.N	0.001156223				
+Agilent Technologies Inc	A.N	0.001122418				
+Air Products & Chemicals Inc	APD.N	0.001696475				
+Airgas Inc	ARG.N	0.000484735				
+Akamai Technologies Inc	AKAM.OQ	0.000869313				
+Alcoa Inc	AA.N	0.001249704				
+Allegheny Energy Inc	AYE.N	0.000369824				
+Allegheny Technologies Inc	ATI.N	0.000481879				
+Allergan Inc	AGN.N	0.002118339				
+Allstate Corp	ALL.N	0.001507392				
+Altera Corp	ALTR.OQ	0.000897882				
+Altria Group Inc	MO.N	0.004925196				
+Amazon.com Inc	AMZN.OQ	0.005382623				
+Ameren Corp	AEE.N	0.000647842				
+American Electric Power	AEP.N	0.001667509				
+American Express Co	AXP.N	0.004101353				
+American Intl Group Inc	AIG.N	0.000526053				
+American Tower Corp A	AMT.N	0.001923537				
+Ameriprise Financial Inc	AMP.N	0.001213332				
+AmerisourceBergen Corp	ABC.N	0.000823424				
+Amgen Inc	AMGN.OQ	0.005079727				
+Amphenol Corp A	APH.N	0.000820825				
+Anadarko Petroleum Corp	APC.N	0.002919457				
+Analog Devices Inc	ADI.N	0.000946401				
+Aon Corp	AON.N	0.001210084				
+Apache Corp	APA.N	0.003471997				
+Apartment Investment & Mgmt	AIV.N	0.000255513				
+Apollo Group Inc	APOL.OQ	0.000454881				
+Apple Inc.	AAPL.OQ	0.026147246				
+Applied Materials Inc	AMAT.OQ	0.001542387				
+Archer-Daniels-Midland Co	ADM.N	0.00184306				
+Assurant Inc	AIZ.N	0.000394193				
+AutoNation Inc	AN.N	0.000138471				
+AutoZone Inc	AZO.N	0.000630798				
+Autodesk Inc	ADSK.OQ	0.000741766				
+Automatic Data Processing	ADP.OQ	0.00203917				
+AvalonBay Communities Inc	AVB.N	0.000852554				
+Avery Dennison Corp	AVY.N	0.000368867				
+Avon Products	AVP.N	0.001144209				
+BB&T Corp	BBT.N	0.001467346				
+BMC Software Inc	BMC.OQ	0.000752691				
+Baker Hughes Inc	BHI.N	0.001963541				
+Ball Corp	BLL.N	0.000544149				
+Bank of America Corp	BAC.N	0.010572424				
+"Bard, C.R. Inc"	BCR.N	0.00072725				
+Baxter Intl Inc	BAX.N	0.00274597				
+"Becton, Dickinson & Co"	BDX.N	0.001617408				
+Bed Bath & Beyond Inc	BBBY.OQ	0.001079275				
+Bemis Co Inc	BMS.N	0.000315623				
+Berkshire Hathaway B	BRKb.N	0.01285826				
+Best Buy Co Inc	BBY.N	0.001363512				
+Big Lots Inc	BIG.N	0.000217247				
+Biogen Idec Inc	BIIB.OQ	0.001408658				
+Block H & R Inc	HRB.N	0.000330777				
+Boeing Co	BA.N	0.004719055				
+Boston Properties Inc	BXP.N	0.001125687				
+Boston Scientific Corp	BSX.N	0.000902913				
+Bristol-Myers Squibb	BMY.N	0.004263622				
+Broadcom Corp A	BRCM.OQ	0.001694421				
+Brown-Forman Corp B	BFb.N	0.000587256				
+CA Inc	CA.OQ	0.000835199				
+CB Richard Ellis Group Inc A	CBG.N	0.000498936				
+CBS Corp B	CBS.N	0.001091648				
+CF Industries Holdings	CF.N	0.000803165				
+CH Robinson Worldwide Inc	CHRW.OQ	0.001089841				
+CIGNA Corp	CI.N	0.000927062				
+CMS Energy Corp	CMS.N	0.000396139				
+CONSOL Energy Inc	CNX.N	0.000765289				
+CSX Corp	CSX.N	0.00218926				
+CVS Caremark Corp.	CVS.N	0.003832645				
+Cabot Oil & Gas A	COG.N	0.000293946				
+Cameron International Corp	CAM.N	0.00097158				
+Campbell Soup Co	CPB.N	0.000651296				
+Capital One Financial	COF.N	0.001577705				
+Cardinal Health Inc	CAH.N	0.001148011				
+CareFusion Corp.	CFN.N	0.000473309				
+Carmax Inc	KMX.N	0.00064124				
+Carnival Corp	CCL.N	0.001741231				
+Caterpillar Inc	CAT.N	0.00464728				
+Celgene Corp	CELG.OQ	0.002734869				
+Centerpoint Energy Inc	CNP.N	0.000653667				
+CenturyLink Inc	CTL.N	0.001165466				
+Cephalon Inc	CEPH.OQ	0.000464633				
+Cerner Corp	CERN.OQ	0.000573743				
+Chesapeake Energy Corp	CHK.N	0.001333545				
+Chevron Corp	CVX.N	0.015266318				
+Chicago Mercantile Exchange	CME.OQ	0.001795191				
+Chubb Corp	CB.N	0.001708042				
+Cincinnati Financial Corp	CINF.OQ	0.000449263				
+Cintas Corp	CTAS.OQ	0.000342964				
+Cisco Systems Inc	CSCO.OQ	0.012241277				
+Citigroup Inc	C.N	0.009827034				
+Citrix Systems Inc	CTXS.OQ	0.001130701				
+Cliffs Natural Resources Inc	CLF.N	0.000842621				
+Clorox Co	CLX.N	0.000815671				
+Coach Inc	COH.N	0.001367831				
+Coca-Cola Co	KO.N	0.013204534				
+Coca-Cola Enterprises	CCE.N	0.000737661				
+Cognizant Tech Solutions Corp	CTSH.OQ	0.001824102				
+Colgate-Palmolive Co	CL.N	0.00350599				
+Comcast Corp	CMCSA.OQ	0.005364498				
+Comerica Inc (MI)	CMA.N	0.000585869				
+Computer Sciences	CSC.N	0.000708336				
+Compuware Corp	CPWR.OQ	0.000210473				
+ConAgra Foods Inc	CAG.N	0.0009054				
+ConocoPhillips	COP.N	0.008135745				
+Consolidated Edison Inc	ED.N	0.001325222				
+Constellation Brands Inc A	STZ.N	0.000319679				
+Constellation Energy Group	CEG.N	0.000563737				
+Corning Inc	GLW.N	0.002645713				
+Costco Wholesale Corp	COST.OQ	0.002586266				
+Coventry Health Care Inc	CVH.N	0.000328071				
+Cummins Inc	CMI.N	0.001678781				
+DIRECTV Class A	DTV.OQ	0.003532278				
+DTE Energy Co	DTE.N	0.000722485				
+Danaher Corp	DHR.N	0.002160534				
+Darden Restaurants Inc	DRI.N	0.000590863				
+Davita Inc	DVA.N	0.000696059				
+DeVry Inc	DV.N	0.000282278				
+Dean Foods Co	DF.N	0.000172356				
+Deere & Co	DE.N	0.003029926				
+Dell Inc	DELL.OQ	0.002247154				
+Denbury Resources Inc	DNR.N	0.000636963				
+Dentsply Intl	XRAY.OQ	0.000416615				
+Devon Energy Corp	DVN.N	0.002650786				
+Diamond Offshore Drilling	DO.N	0.000435674				
+Discover Financial Services	DFS.N	0.000907125				
+Discovery Communications Inc	DISCA.OQ	0.001170418				
+Dominion Resources Inc	D.N	0.002331637				
+"Donnelley, R.R. & Sons"	RRD.OQ	0.000358857				
+Dover Corp	DOV.N	0.000930436				
+Dow Chemical	DOW.N	0.003365098				
+Dr Pepper Snapple Group	DPS.N	0.00082172				
+"DuPont, E.I. de Nemours"	DD.N	0.003973173				
+Duke Energy Corp	DUK.N	0.002226831				
+Dun & Bradstreet Corp	DNB.N	0.000350765				
+E*TRADE Financial Corp	ETFC.OQ	0.000264763				
+EMC Corp	EMC.N	0.004052271				
+EOG Resources	EOG.N	0.002289801				
+EQT Corporation	EQT.N	0.000522952				
+Eastman Chemical Co	EMN.N	0.000532037				
+Eastman Kodak Co	EK.N	0.000117451				
+Eaton Corp	ETN.N	0.001403598				
+Ecolab Inc	ECL.N	0.001065681				
+Edison Intl	EIX.N	0.001119638				
+El Paso Corp	EP.N	0.000880394				
+Electronic Arts	ERTS.OQ	0.000494562				
+Emerson Electric Co	EMR.N	0.003805418				
+Entergy Corp	ETR.N	0.001287426				
+Equifax Inc	EFX.N	0.000393221				
+Equity Residential	EQR.N	0.001281136				
+Estee Lauder Cos.	EL.N	0.000744432				
+Exelon Corp	EXC.N	0.002506087				
+Expedia	EXPE.OQ	0.000550717				
+Expeditors Intl of WA Inc	EXPD.OQ	0.000969565				
+Express Scripts Inc	ESRX.OQ	0.002561342				
+Exxon Mobil Corp	XOM.N	0.031927128				
+FLIR Systems Inc	FLIR.OQ	0.000407147				
+FMC Corp	FMC.N	0.000502049				
+FMC Technologies Inc	FTI.N	0.000818144				
+Family Dollar Stores Inc	FDO.N	0.000576443				
+Fastenal Co	FAST.OQ	0.000723579				
+FedEx Corp	FDX.N	0.002530155				
+Federated Investors Inc B	FII.N	0.000209906				
+Fidelity National Information	FIS.N	0.000669198				
+Fifth Third Bancorp (OH)	FITB.OQ	0.00091561				
+First Horizon National Corp	FHN.N	0.000205979				
+First Solar Inc	FSLR.OQ	0.000685698				
+FirstEnergy Corp	FE.N	0.001038257				
+Fiserv Inc	FISV.OQ	0.000758479				
+Flowserve Corp	FLS.N	0.000513558				
+Fluor Corp	FLR.N	0.000817376				
+Ford Motor Co	F.N	0.004587131				
+Forest Laboratories	FRX.N	0.000887833				
+Fortune Brands Inc	FO.N	0.000759448				
+Franklin Resources Inc	BEN.N	0.001606303				
+Freeport McMoRan Copper & Gold	FCX.N	0.004246396				
+Frontier Communications Corp	FTR.N	0.000806873				
+GameStop Corp A	GME.N	0.000272097				
+Gannett Co Inc	GCI.N	0.000265708				
+Gap Inc	GPS.N	0.00078262				
+General Dynamics	GD.N	0.002390332				
+General Electric Co	GE.N	0.015751355				
+General Mills Inc	GIS.N	0.002190335				
+Genuine Parts Co	GPC.N	0.000696196				
+Genworth Financial Inc	GNW.N	0.000528717				
+Genzyme Corp	GENZ.OQ	0.001700148				
+Gilead Sciences Inc	GILD.OQ	0.003126097				
+Goldman Sachs Group Inc	GS.N	0.007759549				
+Goodrich Corp	GR.N	0.000966428				
+Goodyear Tire & Rubber Co	GT.N	0.00022521				
+Google Inc	GOOG.OQ	0.014144441				
+"Grainger, W.W. Inc"	GWW.N	0.000689707				
+HCP Inc	HCP.N	0.001051774				
+Halliburton Co	HAL.N	0.002643512				
+Harley-Davidson Inc	HOG.N	0.000683473				
+Harman Intl Industries Inc	HAR.N	0.00024156				
+Harris Corp	HRS.N	0.000548291				
+Hartford Finl Services Group	HIG.N	0.000961809				
+Hasbro Inc	HAS.N	0.00061155				
+Health Care REIT Inc	HCN.N	0.000628112				
+"Heinz, H.J. Co"	HNZ.N	0.001454378				
+Helmerich & Payne Inc	HP.N	0.000418395				
+Hershey Foods Corp	HSY.N	0.000698315				
+Hess Corp	HES.N	0.001763608				
+Hewlett-Packard Co	HPQ.N	0.008991941				
+Home Depot Inc	HD.N	0.00485002				
+Honeywell Intl Inc	HON.N	0.00337169				
+Hormel Foods Corp	HRL.N	0.000292788				
+"Horton, D.R. Inc"	DHI.N	0.00028635				
+"Hospira, Inc"	HSP.N	0.000922433				
+Host Hotels & Resorts Inc	HST.N	0.000974826				
+Hudson City Bancorp	HCBK.OQ	0.000565586				
+Humana Inc	HUM.N	0.000948515				
+Huntington Bancshares (OH)	HBAN.OQ	0.000368394				
+ITT Corporation	ITT.N	0.000797726				
+Illinois Tool Works Inc	ITW.N	0.00216357				
+Integrys Energy Group Inc	TEG.N	0.000381908				
+Intel Corp	INTC.OQ	0.010483169				
+IntercontinentalExchange	ICE.N	0.000776694				
+Interpublic Group Cos	IPG.N	0.000473041				
+Intl Business Machines Corp	IBM.N	0.016768447				
+Intl Flavors & Fragrances	IFF.N	0.000373926				
+Intl Game Technology	IGT.N	0.000445252				
+Intl Paper Co	IP.N	0.001004176				
+Intuit Inc	INTU.OQ	0.001265728				
+Intuitive Surgical Inc	ISRG.OQ	0.000968445				
+Invesco Ltd	IVZ.N	0.001013776				
+Iron Mountain Inc	IRM.N	0.00041348				
+JDS Uniphase Corp	JDSU.OQ	0.000218122				
+JP Morgan Chase & Co	JPM.N	0.013545523				
+Jabil Circuit Inc	JBL.N	0.000271346				
+Jacobs Engineering Group Inc	JEC.N	0.000460542				
+Janus Capital Group Inc	JNS.N	0.000187906				
+Johnson & Johnson	JNJ.N	0.016263026				
+Johnson Controls Inc	JCI.N	0.002188724				
+Juniper Networks Inc	JNPR.N	0.001548808				
+KLA-Tencor Corporation	KLAC.OQ	0.000556424				
+Kellogg Co	K.N	0.001197116				
+KeyCorp	KEY.N	0.000682632				
+Kimberly-Clark	KMB.N	0.002381517				
+Kimco Realty Corp	KIM.N	0.000639924				
+King Pharmaceuticals Inc	KG.N	0.000326753				
+Kohl's Corp	KSS.N	0.00145836				
+Kraft Foods Inc A	KFT.N	0.005132587				
+Kroger Co	KR.N	0.00133764				
+L-3 Communications Holdings	LLL.N	0.000773624				
+LSI Corporation	LSI.N	0.000317384				
+Lab Corp of America Hldgs	LH.N	0.0007854				
+Legg Mason Inc	LM.N	0.00046072				
+Leggett & Platt	LEG.N	0.00027544				
+Lennar Corp	LEN.N	0.000229771				
+Leucadia National Corp (NY)	LUK.N	0.000471073				
+Lexmark International Inc	LXK.N	0.000283925				
+Life Technologies Corp	LIFE.OQ	0.000855505				
+"Lilly, Eli & Co"	LLY.N	0.003318371				
+Limited Brands Inc	LTD.N	0.000729751				
+Lincoln National Corp	LNC.N	0.000731002				
+Linear Technology Corp	LLTC.OQ	0.00066385				
+Lockheed Martin	LMT.N	0.001968237				
+Loews Corp	L.N	0.00117168				
+Lorillard Inc	LO.N	0.001229969				
+Lowe's Cos Inc	LOW.N	0.00284306				
+M&T Bank Corp	MTB.N	0.000615541				
+MEMC Electronic Materials	WFR.N	0.00025854				
+Macy's Inc	M.N	0.000938387				
+Marathon Oil Corp	MRO.N	0.002204584				
+Marriott Intl A	MAR.N	0.001005098				
+Marsh & McLennan Companies	MMC.N	0.001265525				
+Marshall & Ilsley Corp (WI)	MI.N	0.000265779				
+Masco Corp	MAS.N	0.000358193				
+Massey Energy Co	MEE.N	0.000393431				
+Mastercard Inc A	MA.N	0.002201578				
+Mattel Inc	MAT.OQ	0.000800623				
+McAfee Inc	MFE.N	0.00066457				
+McCormick & Co	MKC.N	0.000542118				
+McDonald's Corp	MCD.N	0.00771255				
+McGraw-Hill Cos Inc	MHP.N	0.001085352				
+McKesson Corp	MCK.N	0.001617869				
+Mead Johnson Nutrition Co	MJN.N	0.001123956				
+MeadWestvaco Corp	MWV.N	0.000406982				
+Medco Health Solutions Inc	MHS.N	0.002324726				
+Medtronic Inc	MDT.N	0.003533324				
+Merck & Co Inc	MRK.N	0.010413849				
+Meredith Corp	MDP.N	0.000114771				
+Metlife Inc	MET.N	0.003369727				
+Metropcs Communications Inc	PCS.N	0.000260928				
+Microchip Technology Inc	MCHP.OQ	0.000558009				
+Micron Technology Inc	MU.OQ	0.000640889				
+Microsoft Corp	MSFT.OQ	0.019285493				
+Molex Inc	MOLX.OQ	0.000259817				
+Molson Coors Brewing Co B	TAP.N	0.000689743				
+Monsanto Co.	MON.N	0.002952697				
+Monster Worldwide Inc	MWW.N	0.000220416				
+Moody's Corp	MCO.N	0.000503608				
+Morgan Stanley	MS.N	0.003177611				
+Motorola Inc	MOT.N	0.001725729				
+Murphy Oil Corp	MUR.N	0.001167323				
+Mylan Inc.	MYL.OQ	0.000576446				
+NICOR Inc	GAS.N	0.000201468				
+NIKE Inc B	NKE.N	0.002919741				
+NRG Energy	NRG.N	0.000465452				
+NYSE Euronext	NYX.N	0.000713138				
+Nabors Industries Ltd	NBR.N	0.000548167				
+Nasdaq OMX Group/The	NDAQ.OQ	0.000286004				
+National Oilwell Varco Inc	NOV.N	0.00214862				
+National Semiconductor	NSM.N	0.000298241				
+NetApp Inc	NTAP.OQ	0.001769025				
+New York Times Co A	NYT.N	8.3007E-05				
+Newell Rubbermaid Inc	NWL.N	0.000520518				
+Newmont Mining Corp	NEM.N	0.002725568				
+News Corporation	NWSA.OQ	0.003081535				
+NextEra Energy Inc	NEE.N	0.002090882				
+Nisource Inc	NI.N	0.00044628				
+Noble Energy Inc	NBL.N	0.001331123				
+Nordstrom Inc	JWN.N	0.000611939				
+Norfolk Southern Corp	NSC.N	0.002125302				
+Northeast Utilities	NU.N	0.000519046				
+Northern Trust Corp (IL)	NTRS.OQ	0.001132446				
+Northrop Grumman Corp	NOC.N	0.001756472				
+Novell Inc	NOVL.OQ	0.000186703				
+Novellus Systems Inc	NVLS.OQ	0.00024866				
+Nucor Corp	NUE.N	0.001129914				
+Nvidia Corp	NVDA.OQ	0.000652028				
+O'Reilly Automotive	ORLY.OQ	0.000733226				
+ONEOK Inc	OKE.N	0.000495148				
+Occidental Petroleum	OXY.N	0.006119272				
+Office Depot Inc	ODP.N	0.000112993				
+Omnicom Group	OMC.N	0.001241999				
+Oracle Corp	ORCL.OQ	0.010577626				
+Owens-Illinois Inc	OI.N	0.000416161				
+PACCAR Inc	PCAR.OQ	0.001783701				
+PG&E Corporation	PCG.N	0.001736834				
+PNC Finl Services Group	PNC.N	0.002568905				
+PPG Industries Inc	PPG.N	0.001185131				
+PPL Corp	PPL.N	0.001196628				
+Pactiv Corporation	PTV.N	0.000417305				
+Pall Corp	PLL.N	0.000467123				
+Parker-Hannifin Corp	PH.N	0.001169574				
+Patterson Cos Inc	PDCO.OQ	0.000250909				
+Paychex Inc	PAYX.OQ	0.000833152				
+Peabody Energy Corp	BTU.N	0.001348932				
+"Penney, J.C. Inc"	JCP.N	0.000687308				
+People's United Financial Inc	PBCT.OQ	0.000427474				
+Pepco Holdings Inc	POM.N	0.000399594				
+PepsiCo Inc	PEP.N	0.009675656				
+PerkinElmer Inc	PKI.N	0.000257528				
+Pfizer Inc	PFE.N	0.01297208				
+Philip Morris International	PM.N	0.009903594				
+Pinnacle West Capital (AZ)	PNW.N	0.000421945				
+Pioneer Natural Resources	PXD.N	0.000778135				
+Pitney Bowes Inc	PBI.N	0.000422775				
+Plum Creek Timber Co	PCL.N	0.000553846				
+Polo Ralph Lauren A	RL.N	0.000584438				
+Praxair Inc	PX.N	0.002611348				
+Precision Castparts Corp	PCP.N	0.001851546				
+Priceline.com Inc	PCLN.OQ	0.001704931				
+Principal Financial Group	PFG.N	0.000814152				
+Procter & Gamble	PG.N	0.016795892				
+Progress Energy Inc	PGN.N	0.001207452				
+Progressive Corp	PGR.N	0.001321158				
+Prologis	PLD.N	0.000702989				
+Prudential Financial Inc	PRU.N	0.002286384				
+Public Service Enterprise Grp	PEG.N	0.001537166				
+Public Storage	PSA.N	0.00133208				
+Pulte Group Inc	PHM.N	0.000251204				
+QEP Resources	QEP.N	0.000540837				
+QLogic Corp	QLGC.OQ	0.000176919				
+QUALCOMM Inc	QCOM.OQ	0.00674762				
+Quanta Services Inc	PWR.N	0.000388634				
+Quest Diagnostics	DGX.N	0.000684915				
+Qwest Communications Intl Inc	Q.N	0.001072245				
+RadioShack Corp	RSH.N	0.000231555				
+Range Resources Corp	RRC.N	0.00057597				
+Raytheon Co	RTN.N	0.001652844				
+Red Hat Inc	RHT.N	0.0007537				
+Regions Financial Corp	RF.N	0.000710433				
+Republic Services Inc	RSG.N	0.000846481				
+Reynolds American Inc	RAI.N	0.001018487				
+Robert Half Intl Inc	RHI.N	0.000376503				
+Rockwell Automation Inc	ROK.N	0.000846742				
+Rockwell Collins	COL.N	0.000867559				
+Roper Industries Inc	ROP.N	0.000613076				
+Ross Stores Inc	ROST.OQ	0.00067848				
+Rowan Companies Inc	RDC.N	0.000334811				
+Ryder System Inc	R.N	0.000215157				
+SAIC Inc	SAI.N	0.000432066				
+SCANA Corp	SCG.N	0.000428616				
+SLM Corp	SLM.N	0.000530184				
+Safeway Inc	SWY.N	0.000811925				
+Salesforce.com	CRM.N	0.001247305				
+SanDisk Corp	SNDK.OQ	0.000806544				
+Sara Lee Corp	SLE.N	0.000901592				
+Schlumberger Ltd	SLB.N	0.009025882				
+"Schwab, Charles Corp"	SCHW.N	0.001409531				
+Scripps Networks Interactive	SNI.N	0.000420304				
+Sealed Air Corp	SEE.N	0.000344458				
+Sears Holdings Corp	SHLD.OQ	0.000295779				
+Sempra Energy	SRE.N	0.001234549				
+Sherwin-Williams Co	SHW.N	0.000604071				
+Sigma-Aldrich Corp	SIAL.OQ	0.000722505				
+Simon Property Group	SPG.N	0.002721896				
+"Smucker, J.M. Co"	SJM.N	0.000707801				
+Snap On Inc	SNA.N	0.000277876				
+Southern Co	SO.N	0.002916115				
+Southwest Airlines Co	LUV.N	0.000970761				
+Southwestern Energy Co	SWN.N	0.001117022				
+Spectra Energy Corp	SE.N	0.001447062				
+Sprint Nextel Corp	S.N	0.001130997				
+St Jude Medical Inc	STJ.N	0.00114811				
+Stanley Black & Decker	SWK.N	0.000942774				
+Staples Inc	SPLS.OQ	0.001370572				
+Starbucks Corp	SBUX.OQ	0.001975559				
+Starwood Hotel & Resort World	HOT.N	0.000963167				
+State Street Corp	STT.N	0.001944968				
+Stericycle Inc	SRCL.OQ	0.000571044				
+Stryker Corp	SYK.N	0.00157444				
+SunTrust Banks Inc (GA)	STI.N	0.001127932				
+Sunoco Inc	SUN.N	0.000413896				
+Supervalu Inc	SVU.N	0.000207261				
+Symantec Corp	SYMC.OQ	0.001217654				
+Sysco Corp	SYY.N	0.001620603				
+T Rowe Price Group Inc	TROW.OQ	0.001333722				
+TECO Energy Inc	TE.N	0.000346105				
+TJX Cos Inc	TJX.N	0.001716072				
+Target Corp	TGT.N	0.003597484				
+Tellabs Inc	TLAB.OQ	0.000240771				
+Tenet Healthcare	THC.N	0.000192847				
+Teradata Corp	TDC.N	0.000631825				
+Teradyne Inc	TER.N	0.000188734				
+Tesoro Corp	TSO.N	0.000171211				
+Texas Instruments Inc	TXN.N	0.003269888				
+Textron Inc	TXT.N	0.000543141				
+The Bank of New York Mellon Corp	BK.N	0.002814256				
+Thermo Fisher Scientific	TMO.N	0.001937877				
+Tiffany & Co	TIF.N	0.000631378				
+Time Warner Cable Inc	TWC.N	0.001919145				
+Time Warner Inc	TWX.N	0.003368581				
+Titanium Metals Corp	TIE.N	0.000160536				
+Torchmark Corp	TMK.N	0.000429104				
+Total System Services Inc	TSS.N	0.000239713				
+Travelers Cos Inc	TRV.N	0.002411795				
+Tyco Intl	TYC.N	0.001784818				
+Tyson Foods Inc A	TSN.N	0.000420853				
+US Bancorp	USB.N	0.004217333				
+Union Pacific Corp	UNP.N	0.004136693				
+United Parcel Service Inc B	UPS.N	0.00625408				
+United States Steel Corp	X.N	0.000595128				
+United Technologies Corp	UTX.N	0.006461856				
+Unitedhealth Group Inc	UNH.N	0.003844801				
+Unum Group	UNM.N	0.000689245				
+Urban Outfitters	URBN.OQ	0.00036073				
+VF Corp	VFC.N	0.000665533				
+Valero Energy Corp	VLO.N	0.000942086				
+Varian Medical Systems Inc	VAR.N	0.000703287				
+Ventas Inc	VTR.N	0.000780958				
+VeriSign Inc	VRSN.OQ	0.00055269				
+Verizon Communications Inc	VZ.N	0.008569636				
+Viacom Inc B	VIAb.N	0.002187705				
+Visa Inc	V.N	0.003602094				
+Vornado Realty Trust	VNO.N	0.00133878				
+Vulcan Materials Co	VMC.N	0.000465811				
+Wal-Mart Stores	WMT.N	0.010128743				
+Walgreen Co	WAG.N	0.003102329				
+Walt Disney Co	DIS.N	0.006383452				
+Washington Post Co B	WPO.N	0.000206593				
+Waste Management Inc	WM.N	0.001583325				
+Waters Corp	WAT.N	0.000642694				
+Watson Pharmaceuticals	WPI.N	0.000487373				
+WellPoint Inc	WLP.N	0.002059799				
+Wells Fargo & Co	WFC.N	0.012562044				
+Western Digital Corp	WDC.N	0.000699667				
+Western Union Co	WU.N	0.001064684				
+Weyerhaeuser Co	WY.N	0.000812385				
+Whirlpool Corp	WHR.N	0.000542433				
+Whole Foods Market Inc	WFMI.OQ	0.000546277				
+Williams Cos Inc	WMB.N	0.001165637				
+Windstream Corp	WIN.OQ	0.000571623				
+Wisconsin Energy Corp	WEC.N	0.000646981				
+Wyndham Worldwide Corp	WYN.N	0.000500933				
+Wynn Resorts Ltd	WYNN.OQ	0.000783881				
+XL Group Plc	XL.N	0.00066447				
+Xcel Energy Inc	XEL.N	0.001015782				
+Xerox Corp	XRX.N	0.00149819				
+Xilinx Inc	XLNX.OQ	0.000649514				
+Yahoo Inc	YHOO.OQ	0.002020062				
+Yum! Brands Inc	YUM.N	0.002181501				
+Zimmer Holdings Inc	ZMH.N	0.000909958				
+Zions Bancorp (UT)	ZION.OQ	0.000323635				
+eBay Inc.	EBAY.OQ	0.00320925				
+		1				
